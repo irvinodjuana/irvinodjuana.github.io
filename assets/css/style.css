@@ -747,7 +747,7 @@ section {
 }
 
 .contact .container {
-  min-height: 500px;
+  min-height: 80vh;
 }
 
 .contact .info {
